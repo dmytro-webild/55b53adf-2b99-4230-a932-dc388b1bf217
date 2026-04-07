@@ -154,7 +154,7 @@ export default function LandingPage() {
       title="Svar på spørgsmål"
       description="Almindelige spørgsmål om vores walk-in service og værdier."
       faqsAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg?_wi=2"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775575324066-esvj066y.jpg"
       mediaAnimation="slide-up"
     />
   </div>
@@ -167,7 +167,7 @@ export default function LandingPage() {
       tag="Besøg os"
       title="Kom forbi når du er klar"
       description="Ingen tidsbestilling nødvendig. Bare mød op, så gør vi dig klar til at se bedst ud."
-      imageSrc="http://img.b2bpic.net/free-photo/happy-businesswoman-with-mobile-phone-entrance-hall_23-2147605019.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775575361403-xt5li2mn.jpg"
       imageAlt="Salonindgang"
       mediaAnimation="slide-up"
     />
