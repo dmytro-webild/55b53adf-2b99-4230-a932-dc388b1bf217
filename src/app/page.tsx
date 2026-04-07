@@ -39,7 +39,7 @@ export default function LandingPage() {
         {
           name: "Besøg os",          id: "contact"},
       ]}
-      brandName="City Salon"
+      brandName="CITY SALON"
     />
   </div>
 
