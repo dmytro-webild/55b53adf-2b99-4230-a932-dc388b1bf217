@@ -187,7 +187,7 @@ export default function LandingPage() {
         {
           title: "Kontakt",          items: [
             { label: "City Salon", href: "#" },
-            { label: "info@citysalon.dk", href: "mailto:info@citysalon.dk" }
+            { label: "citysalon2003@outlook.dk", href: "mailto:citysalon2003@outlook.dk" }
           ]
         }
       ]}
