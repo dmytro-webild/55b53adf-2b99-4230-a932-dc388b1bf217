@@ -123,7 +123,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="A Tradition of Craft & Connection"
       description="At City Salon, we believe a great haircut is about more than just the trim—it’s about the trust. We’ve built a reputation for consistency that brings our clients back time and time again. When you walk through our doors, you’re greeted by familiar faces and barbers who truly listen. Whether you’re new to the neighborhood or a long-time regular, you deserve a haircut that reflects your style and an experience that values your time."
-      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg?_wi=1"
       imageAlt="Professional salon environment"
     />
   </div>
@@ -219,7 +219,7 @@ export default function LandingPage() {
       title="Questions Answered"
       description="Common inquiries about our walk-in service and shop values."
       faqsAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
