@@ -167,7 +167,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Besøg os"
       title="Kom forbi når du er klar"
-      description="Ingen tidsbestilling nødvendig. Bare mød op, så gør vi dig klar til at se bedst ud."
+      description="Ingen tidsbestilling nødvendig. Vi har åbent mandag-lørdag kl. 09-18 på Østergade 12, så bare mød op, så gør vi dig klar til at se bedst ud."
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775575361403-xt5li2mn.jpg"
       imageAlt="Salonindgang"
       mediaAnimation="slide-up"
