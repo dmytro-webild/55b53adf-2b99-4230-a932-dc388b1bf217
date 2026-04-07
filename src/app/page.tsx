@@ -64,7 +64,7 @@ export default function LandingPage() {
       avatarText="Betroet af vores loyale stamkunder i over 6 år"
       buttons={[
         {
-          text: "Kom forbi i dag",          href: "#contact"},
+          text: "Kom forbi i dag",          href: "https://www.google.com/maps/place/Fris%C3%B8r+i+Herning+%7C+City+Salon/@56.1362696,8.9678637,14z/data=!4m6!3m5!1s0x464bbbe5433dad53:0xcdf148b4e94181cc!8m2!3d56.1363651!4d8.9676575!16s%2Fg%2F11xgh0m52!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D"},
       ]}
       buttonAnimation="slide-up"
       marqueeItems={[
