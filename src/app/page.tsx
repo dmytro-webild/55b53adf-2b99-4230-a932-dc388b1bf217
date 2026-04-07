@@ -92,7 +92,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="En tradition for håndværk og fællesskab"
       description="Hos City Salon tror vi på, at en god klipning handler om mere end bare frisuren – det handler om tillid. Vi har opbygget et ry for konsekvent kvalitet, der bringer vores kunder tilbage igen og igen. Når du træder ind ad døren, bliver du mødt af kendte ansigter og barberer, der virkelig lytter. Uanset om du er ny i kvarteret eller en af vores faste kunder, fortjener du en klipning, der afspejler din stil, og en oplevelse, der værdsætter din tid."
-      imageSrc="http://img.b2bpic.net/free-photo/man-getting-his-beard-shaved-with-razor_107420-94799.jpg?_wi=1"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775575263554-kt3ffkmn.jpg"
       imageAlt="Professionelt salonmiljø"
     />
   </div>
