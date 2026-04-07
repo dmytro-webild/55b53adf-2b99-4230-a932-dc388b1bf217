@@ -10,7 +10,7 @@ import HeroCentered from '@/components/sections/hero/HeroCentered';
 import MediaAbout from '@/components/sections/about/MediaAbout';
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import TestimonialCardFifteen from '@/components/sections/testimonial/TestimonialCardFifteen';
-import { Clock, Droplet, Scissors, Star, UserCheck, Phone } from "lucide-react";
+import { Clock, Droplet, Scissors, Star, UserCheck } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -38,8 +38,6 @@ export default function LandingPage() {
           name: "Anbefalinger",          id: "testimonials"},
         {
           name: "Besøg os",          id: "contact"},
-        {
-          name: "97 22 66 39",          id: "tel:97226639"}
       ]}
       brandName="CITY SALON"
     />
@@ -111,7 +109,7 @@ export default function LandingPage() {
         {
           title: "Præcisionsarbejde",          description: "Ekspertteknikker der sikrer ensartede resultater af høj kvalitet ved hvert besøg.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg?_wi=1",          imageAlt: "Præcisionsværktøj"},
         {
-          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775580296066-gvcvz2dz.jpg",          imageAlt: "Salonstation"},
+          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg?_wi=2",          imageAlt: "Salonstation"},
         {
           title: "Personlig tilgang",          description: "Vi tager os tid til at lære din stil, dine præferencer og din hårtype at kende.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775573986291-ctps74sb.jpg",          imageAlt: "Stylingsession"},
       ]}
