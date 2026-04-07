@@ -148,7 +148,7 @@ export default function LandingPage() {
         {
           title: "Personalized Approach",
           description: "We take the time to learn your style, preferences, and hair type perfectly.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-man-getting-haircut_23-2148506326.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775573865515-8647geq5.jpg",
           imageAlt: "Styling session",
         },
       ]}
