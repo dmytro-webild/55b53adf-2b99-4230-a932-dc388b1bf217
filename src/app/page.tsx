@@ -180,7 +180,7 @@ export default function LandingPage() {
       columns={[
         {
           title: "Social",          items: [
-            { label: "Instagram", href: "#" },
+            { label: "Instagram", href: "https://www.instagram.com/frisoer.citysalon.herning?fbclid=IwY2xjawRCAklleHRuA2FlbQIxMABicmlkETFLRmM2QnJadE9pMW5zUDVVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgZgmYcfYol4947-d1bG25MSA2PNmbH6JJS94ahoCVnWSzesWyzegTvtJjzi_aem_jAMcC-9yHvPciNKLmtvSZw" },
             { label: "Facebook", href: "https://www.facebook.com/cityhair.salon/" }
           ]
         },
