@@ -51,7 +51,7 @@ export default function LandingPage() {
       description="Du er ikke bare en kunde – du bliver husket. Kom ind, når det passer dig, og få den samme perfekte klipning, som får vores kunder til at vende tilbage år efter år."
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/business-man-phone-park_23-2148018595.jpg",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576014142-ojh1v030.png",          alt: "Kunde"},
         {
           src: "http://img.b2bpic.net/free-photo/lady-summer-cafe-woman-sitting-table-famale-with-cute-dog_1157-41816.jpg",          alt: "Kunde"},
         {
