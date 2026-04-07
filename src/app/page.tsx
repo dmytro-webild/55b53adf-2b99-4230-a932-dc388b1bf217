@@ -51,15 +51,15 @@ export default function LandingPage() {
       description="Du er ikke bare en kunde – du bliver husket. Kom ind, når det passer dig, og få den samme perfekte klipning, som får vores kunder til at vende tilbage år efter år."
       avatars={[
         {
-          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576014142-ojh1v030.png",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775575263554-kt3ffkmn.jpg",          alt: "Kunde"},
         {
-          src: "http://img.b2bpic.net/free-photo/lady-summer-cafe-woman-sitting-table-famale-with-cute-dog_1157-41816.jpg",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576362014-fy3zcaoy.jpg",          alt: "Kunde"},
         {
-          src: "http://img.b2bpic.net/free-photo/closeup-portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9654.jpg",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576366454-tfr25swc.jpg",          alt: "Kunde"},
         {
-          src: "http://img.b2bpic.net/free-photo/pleased-slavic-middle-aged-male-barber-uniform-holding-barber-tools-isolated-purple-wall_141793-91610.jpg",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576405427-7arhr190.jpg",          alt: "Kunde"},
         {
-          src: "http://img.b2bpic.net/free-photo/this-is-so-cute-portrait-attractive-unshaven-young-male-with-muscular-tattoo-body-crossing-arms-his-chest-smiling-being-touched-by-something-expressing-distrust-suspicion-doubt_343059-1710.jpg",          alt: "Kunde"},
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576410294-9oxi02hu.jpg",          alt: "Kunde"},
       ]}
       avatarText="Betroet af vores loyale stamkunder i over 6 år"
       buttons={[
