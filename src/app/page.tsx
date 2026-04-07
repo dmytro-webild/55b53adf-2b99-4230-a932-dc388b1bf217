@@ -10,7 +10,7 @@ import HeroCentered from '@/components/sections/hero/HeroCentered';
 import MediaAbout from '@/components/sections/about/MediaAbout';
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import TestimonialCardFifteen from '@/components/sections/testimonial/TestimonialCardFifteen';
-import { Clock, Droplet, Scissors, Star, UserCheck } from "lucide-react";
+import { Clock, Droplet, Scissors, Star, UserCheck, Phone } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -38,6 +38,8 @@ export default function LandingPage() {
           name: "Anbefalinger",          id: "testimonials"},
         {
           name: "Besøg os",          id: "contact"},
+        {
+          name: "97 22 66 39",          id: "tel:97226639"}
       ]}
       brandName="CITY SALON"
     />
