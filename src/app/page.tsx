@@ -105,7 +105,7 @@ export default function LandingPage() {
         {
           title: "Præcisionsarbejde",          description: "Ekspertteknikker der sikrer ensartede resultater af høj kvalitet ved hvert besøg.",          imageSrc: "http://img.b2bpic.net/free-photo/black-neodymium-magnet-phenomenon_23-2148253601.jpg",          imageAlt: "Præcisionsværktøj"},
         {
-          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775573713858-x1exsqki.jpg",          imageAlt: "Salonstation"},
+          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775573807501-gwlaxj6i.jpg",          imageAlt: "Salonstation"},
         {
           title: "Personlig tilgang",          description: "Vi tager os tid til at lære din stil, dine præferencer og din hårtype at kende.",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-man-getting-haircut_23-2148506326.jpg",          imageAlt: "Stylingsession"},
       ]}
