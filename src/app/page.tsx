@@ -69,6 +69,10 @@ export default function LandingPage() {
       buttonAnimation="slide-up"
       marqueeItems={[
         {
+          type: "image", 
+          src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775576014142-ojh1v030.png",          alt: "Primary Barber"
+        },
+        {
           type: "text-icon",          text: "Walk-ins velkomne",          icon: Clock,
         },
         {
@@ -84,6 +88,7 @@ export default function LandingPage() {
           type: "text-icon",          text: "Moderne studie",          icon: Star,
         },
       ]}
+      marqueeClassName="scale-150"
     />
   </div>
 
