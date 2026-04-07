@@ -103,9 +103,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Præcisionsarbejde",          description: "Ekspertteknikker der sikrer ensartede resultater af høj kvalitet ved hvert besøg.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg",          imageAlt: "Præcisionsværktøj"},
+          title: "Præcisionsarbejde",          description: "Ekspertteknikker der sikrer ensartede resultater af høj kvalitet ved hvert besøg.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg?_wi=1",          imageAlt: "Præcisionsværktøj"},
         {
-          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg",          imageAlt: "Salonstation"},
+          title: "Imødekommende atmosfære",          description: "Et afslappet og professionelt miljø, hvor alle bliver behandlet som individer.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775574107514-mjup70k8.jpg?_wi=2",          imageAlt: "Salonstation"},
         {
           title: "Personlig tilgang",          description: "Vi tager os tid til at lære din stil, dine præferencer og din hårtype at kende.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775573986291-ctps74sb.jpg",          imageAlt: "Stylingsession"},
       ]}
