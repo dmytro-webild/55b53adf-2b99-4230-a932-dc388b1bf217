@@ -181,7 +181,7 @@ export default function LandingPage() {
         {
           title: "Social",          items: [
             { label: "Instagram", href: "#" },
-            { label: "Facebook", href: "#" }
+            { label: "Facebook", href: "https://www.facebook.com/cityhair.salon/" }
           ]
         },
         {
