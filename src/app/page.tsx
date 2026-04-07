@@ -5,7 +5,7 @@ import ReactLenis from "lenis/react";
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FaqSplitMedia from '@/components/sections/faq/FaqSplitMedia';
 import FeatureCardEight from '@/components/sections/feature/FeatureCardEight';
-import FooterCard from '@/components/sections/footer/FooterCard';
+import FooterBase from '@/components/sections/footer/FooterBase';
 import HeroCentered from '@/components/sections/hero/HeroCentered';
 import MediaAbout from '@/components/sections/about/MediaAbout';
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -174,9 +174,23 @@ export default function LandingPage() {
   </div>
 
   <div id="footer" data-section="footer">
-      <FooterCard
+      <FooterBase
       logoText="CITY SALON"
       copyrightText="© 2025 City Salon | Alle rettigheder forbeholdes"
+      columns={[
+        {
+          title: "Social",          items: [
+            { label: "Instagram", href: "#" },
+            { label: "Facebook", href: "#" }
+          ]
+        },
+        {
+          title: "Kontakt",          items: [
+            { label: "City Salon", href: "#" },
+            { label: "info@citysalon.dk", href: "mailto:info@citysalon.dk" }
+          ]
+        }
+      ]}
     />
   </div>
       </ReactLenis>
